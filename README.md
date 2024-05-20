@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ,I'm Pallavi Undre 👋
 
 <!--
 **pallaviu22/pallaviu22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=pallaviu22&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+
